@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Import Home Light were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://portfolio.local
+Data file = C:\laragon\www\portfolio/wp-content/themes/aali/sample-data/contents-demo.xml
+Widget file = C:\laragon\www\portfolio/wp-content/themes/aali/sample-data/widget-settings.json
+Customizer file = C:\laragon\www\portfolio/wp-content/themes/aali/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "message" (Media)
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+aali Search - No Title - Widget already exists
+aali Recent Posts - No Title - Imported
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Custom HTML - No Title - Imported
+
+sidebar-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+
+Footer One Widget : 
+
+Custom HTML - No Title - Imported
+
+Footer Two Widget : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
